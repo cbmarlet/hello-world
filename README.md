@@ -1,3 +1,3 @@
 # hello-world
 just another repository
-The first steps with GitHub starts now!
+The first step with GitHub starts now!
